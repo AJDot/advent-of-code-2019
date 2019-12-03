@@ -29,7 +29,7 @@ class Day1
     end
   end
 
-  def run_all
+  def run
     run_part_1
     run_part_2
   end

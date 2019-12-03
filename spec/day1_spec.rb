@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require './day1'
+require './days/day_1/day1'
 
 describe Day1 do
   describe 'Part 1: when not accounting for the fuel needed for the fuel' do
